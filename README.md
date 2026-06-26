@@ -154,27 +154,16 @@ pip install -r requirements.txt
 
 ## ▶️ Run the Application
 
-Start the Streamlit app:
+Start flask app:
 
 ```bash
-streamlit run app.py
+ app.py
 ```
 
 Then open the local URL displayed in your terminal.
 
 ---
 
-## 💻 Application Preview
-
-### Home Page
-
-_Add a screenshot here._
-
-### Prediction Result
-
-_Add a screenshot of the fraud prediction page here._
-
----
 
 ## 🌍 Deployment
 
